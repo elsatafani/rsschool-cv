@@ -20,6 +20,8 @@ I am a highly motivated Software Engineer with a strong passion for software dev
 - **Udemy** - HTML, CSS, JavaScript Course
 - **Udemy** - WordPress Development Course
 - **World Health Organization** - Artificial Intelligence for Health
+- **Code Basics** - The basics of HTML
+- - **Code Basics** - The basics of CSS
 - **Victory School** - English (2016 - 2020)
 
 ## Languages
